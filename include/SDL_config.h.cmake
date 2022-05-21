@@ -350,6 +350,7 @@
 #cmakedefine SDL_HAPTIC_DINPUT @SDL_HAPTIC_DINPUT@
 #cmakedefine SDL_HAPTIC_XINPUT @SDL_HAPTIC_XINPUT@
 #cmakedefine SDL_HAPTIC_ANDROID @SDL_HAPTIC_ANDROID@
+#cmakedefine HAVE_LIBUSB @HAVE_LIBUSB@
 #cmakedefine SDL_LIBUSB_DYNAMIC @SDL_LIBUSB_DYNAMIC@
 
 /* Enable various sensor drivers */
